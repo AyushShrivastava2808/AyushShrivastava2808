@@ -1,9 +1,9 @@
-![logo](https://github.com/AyushShrivastava2808/AyushShrivastava2808/blob/main/github-header-banner.png)
+![logo](https://github.com/AyushShrivastava2808/AyushShrivastava2808/blob/main/github-header.png)
 
 # 💫 About Me:
 Hi 👋, I'm Ayush Shrivastava<br>I am a AIML and Full Stack Developer
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/dd9c65d5-79d5-4a3d-8dad-c2f0c3273ee9">
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/yognJRlfAbej1wjiuFxDzp8fUAgwsAhiPGjlGHUij78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9zb3VyY2UvMDZm/MjFhMTYxOTIxOTE5/LjYzY2Q3ODg3ZDBh/NzAuZ2lm.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-shrivastava-3bb48a304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushshrivastava2808@gmail.com) 

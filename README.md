@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Ayush Shrivastava<br>I am a AIML and Full Stack Developer
 
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/fcb6ffa4-dfee-4bd8-8fc4-e5d2e019d96c">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-shrivastava-3bb48a304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushshrivastava2808@gmail.com) 

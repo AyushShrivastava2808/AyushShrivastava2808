@@ -1,9 +1,8 @@
-![Repo Views](https://camo.githubusercontent.com/2965ee0701013d05b39540a9a724ba03a376505103e7fff8f42609c49467f70c/68747470733a2f2f64796e616d69632d7265706f2d6261646765732e76657263656c2e6170702f7376672f636f756e742f322f5265706f7369746f727925323056696577732f64656d6f)
 
 <h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
 <h3 align="center">I am a AIML and Full Stack Developer</h3>
 
-(img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/J3tXbIqZbk4xq45EsXxZY66fcCSn8fG6Rp7o2_5MGRE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9h/bmltYXRlZC1jb3di/b3ktY29tcHV0ZXIt/Y29kaW5nLXc2MHBj/aWtsNmllZzUyNW4u/Z2lm.gif")
+(img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yognJRlfAbej1wjiuFxDzp8fUAgwsAhiPGjlGHUij78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9zb3VyY2UvMDZm/MjFhMTYxOTIxOTE5/LjYzY2Q3ODg3ZDBh/NzAuZ2lm.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushshrivastava2808&label=Profile%20views&color=0e75b6&style=flat" alt="ayushshrivastava2808" /> </p>
 

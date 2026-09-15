@@ -1,3 +1,5 @@
+![logo](https://github.com/AyushShrivastava2808/AyushShrivastava2808/blob/main/github-header-banner.png)
+
 # 💫 About Me:
 Hi 👋, I'm Ayush Shrivastava<br>I am a AIML and Full Stack Developer
 

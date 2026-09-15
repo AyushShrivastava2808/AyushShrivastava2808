@@ -19,3 +19,5 @@ Hi 👋, I'm Ayush Shrivastava<br>I am a AIML and Full Stack Developer
 [![](https://komarev.com/ghpvc/?username=AyushShrivastava2808&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake](https://raw.githubusercontent.com/AyushShrivastava2808/AyushShrivastava2808/output/snake-purple.svg)

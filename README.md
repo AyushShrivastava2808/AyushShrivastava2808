@@ -1,7 +1,7 @@
 ![logo](https://github.com/AyushShrivastava2808/AyushShrivastava2808/blob/main/github.png)
 
 # 💫 About Me:
-Hi 👋, I'm Ayush Shrivastava<br>I am a AIML and Full Stack Developer
+Hi 👋, I'm Ayush Shrivastava<br>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/yognJRlfAbej1wjiuFxDzp8fUAgwsAhiPGjlGHUij78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9zb3VyY2UvMDZm/MjFhMTYxOTIxOTE5/LjYzY2Q3ODg3ZDBh/NzAuZ2lm.gif">
 
